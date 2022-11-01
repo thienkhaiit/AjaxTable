@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2017
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JqueryMTable", "JqueryMTable\JqueryMTable.csproj", "{7F9A1FDC-1FE1-4899-8300-0A24F9261973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AjaxTableData", "AjaxTableData\AjaxTableData.csproj", "{952A283F-2FA2-427D-A311-CDE50EAA9FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F9A1FDC-1FE1-4899-8300-0A24F9261973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F9A1FDC-1FE1-4899-8300-0A24F9261973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F9A1FDC-1FE1-4899-8300-0A24F9261973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F9A1FDC-1FE1-4899-8300-0A24F9261973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952A283F-2FA2-427D-A311-CDE50EAA9FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952A283F-2FA2-427D-A311-CDE50EAA9FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952A283F-2FA2-427D-A311-CDE50EAA9FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952A283F-2FA2-427D-A311-CDE50EAA9FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87F3D2BC-6153-4A03-AF6F-34C4B813BB64}
+	EndGlobalSection
+EndGlobal
